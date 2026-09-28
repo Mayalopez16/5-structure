@@ -1,3 +1,16 @@
 html {
     background-color: rgb(254, 239, 239);
 }
+
+body{
+    margin:0;
+}
+.site-header {
+    background-color: rgb(169, 30, 228);
+    padding: 30px;
+    color:aliceblue;
+}
+
+.page-name {
+    margin:0;
+}
