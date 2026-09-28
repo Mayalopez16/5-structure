@@ -9,8 +9,22 @@ body{
     background-color: rgb(169, 30, 228);
     padding: 30px;
     color:aliceblue;
+    margin-bottom: 20px;
 }
 
 .page-name {
     margin:0;
+}
+.nav-links {
+    color: #ffff;
+}
+.main-content {
+    background-color: cadetblue;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.site-footer{
+    background-color: darksalmon;
+    padding: 30px
+
 }
